@@ -1,12 +1,12 @@
-// widgets/product_modal.dart
+// presentation/widgets/product_modal.dart
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../provider.dart';
-import '../models.dart';
+import '../../data/providers/app_provider.dart';
+import '../../data/models/product.dart';
 
 class ProductModalDetail extends StatelessWidget {
   final Product product;
-  const ProductModalDetail({Key? key, required this.product}) : super(key: key);
+  const ProductModalDetail({super.key, required this.product});
 
   @override
   Widget build(BuildContext context) {

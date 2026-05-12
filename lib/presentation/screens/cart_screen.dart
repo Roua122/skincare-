@@ -1,10 +1,10 @@
-// screens/cart_screen.dart
+// presentation/screens/cart_screen.dart
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../provider.dart';
+import '../../data/providers/app_provider.dart';
 
 class CartScreen extends StatelessWidget {
-  const CartScreen({Key? key}) : super(key: key);
+  const CartScreen({super.key});
 
   @override
   Widget build(BuildContext context) {

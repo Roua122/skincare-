@@ -1,4 +1,3 @@
-// models.dart
 class Product {
   final String id;
   final String title;
@@ -24,5 +23,9 @@ class CartItem {
   final Product product;
   int quantity;
 
-  CartItem({required this.id, required this.product, this.quantity = 1});
+  CartItem({
+    required this.id,
+    required this.product,
+    this.quantity = 1,
+  });
 }
