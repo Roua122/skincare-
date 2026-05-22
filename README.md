@@ -80,6 +80,4 @@ Developed with passion by **Roaa** - Flutter Developer.
 
 *If you like this project, feel free to ⭐ it!*
 
-```
 
-```
