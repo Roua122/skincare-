@@ -1,6 +1,4 @@
 
-
-```markdown
 # Botanical Glow: Premium Skincare E-Commerce App 🌿
 
 Welcome to **Botanical Glow**, a modern, cross-platform E-Commerce mobile application designed for skincare enthusiasts. This project was built using **Flutter**, leveraging **Firebase** for backend services and **Provider** for efficient state management.
@@ -35,9 +33,6 @@ Welcome to **Botanical Glow**, a modern, cross-platform E-Commerce mobile applic
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Roua122/flutter-skincare-app.git](https://github.com/Roua122/flutter-skincare-app.git)
-
-```
-
 2. **Navigate to the project directory:**
 ```bash
 cd flutter-skincare-app
