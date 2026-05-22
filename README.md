@@ -65,7 +65,7 @@ flutter run
 ## 🌐 Live Demo
 
 You can check out the live web version of the app here:
-**[([https://www.google.com/search?q=YOUR_GITHUB_PAGES_LINK](https://mellifluous-puffpuff-5e4668.netlify.app/))**
+**[([https://www.google.com/search?q=YOUR_GITHUB_PAGES_LINK]](https://mellifluous-puffpuff-5e4668.netlify.app/))**
 
 ---
 
